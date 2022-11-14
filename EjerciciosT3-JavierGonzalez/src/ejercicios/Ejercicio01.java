@@ -24,13 +24,13 @@ public class Ejercicio01 {
 		int segundos;										// Variable para guardar los segundos
 		int incremento;										// Variable para guardar el incremento
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Introduzca las horas");			// Pedimos las horas
+		System.out.println("Introduzca las horas:");			// Pedimos las horas
 		horas = sc.nextInt();
-		System.out.println("Introduzca los minutos");		// Pedimos los minutos
+		System.out.println("Introduzca los minutos:");		// Pedimos los minutos
 		minutos = sc.nextInt();
-		System.out.println("Introduzca los segundos");		// Pedimos los segundos
+		System.out.println("Introduzca los segundos:");		// Pedimos los segundos
 		segundos = sc.nextInt();
-		System.out.println("Introduzca los segundos a incrementar");	// Pedimos los segundos a incrementar
+		System.out.println("Introduzca los segundos a incrementar:");	// Pedimos los segundos a incrementar
 		incremento = sc.nextInt();
 		 for (int i = 1; i <= incremento; i++) { 	// Usamos el for incrementando un segundo por cada bucle
 
