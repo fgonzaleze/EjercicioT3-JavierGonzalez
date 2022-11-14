@@ -1,5 +1,8 @@
 package ejercicios;
 
+import java.util.Scanner;
+
+
 public class Ejercicio04 {
 
 	public static void main(String[] args) {
@@ -9,7 +12,23 @@ public class Ejercicio04 {
 		// ambos simultáneamente. Teniendo en cuenta lo que se acaba de explicar, realiza un programa 
 		// que calcule el máximo común divisor de dos números.
 		
+        int numA, numB;
+        int mcd;
 
-	}
+        Scanner sc = new Scanner(System.in);
 
+        System.out.println("Introduzca el primer numero entero positivo: ");
+        numA=sc.nextInt();
+        System.out.println("Introduzca el segundo numero entero positivo: ");
+        numB=sc.nextInt();
+
+       
+        
+
+    }
+	
+		
 }
+	
+
+
