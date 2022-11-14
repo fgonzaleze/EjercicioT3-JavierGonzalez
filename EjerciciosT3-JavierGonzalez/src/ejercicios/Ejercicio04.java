@@ -8,7 +8,7 @@ public class Ejercicio04 {
 		// desde el menor de a y b, ir buscando, de forma decreciente, el primer número que divide a 
 		// ambos simultáneamente. Teniendo en cuenta lo que se acaba de explicar, realiza un programa 
 		// que calcule el máximo común divisor de dos números.
-
+		
 
 	}
 
