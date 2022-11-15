@@ -36,6 +36,9 @@ public class Ejercicio09 {
         }
 
         sc.close();																			// Cerramos el escáner
+	
 	}
 
-}
+	}
+
+
