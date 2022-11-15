@@ -25,7 +25,7 @@ public class Ejercicio03 {
 			            }
 
 			            for(int j=1; j<=altura; j++){   						// Inicializando el bucle en 1, lo terminamos en nla altura y lo incrementamos en 1
-			                System.out.print(" * ");                            // Imprimimos una estrella con espacios
+			                System.out.print("* ");                             // Imprimimos una estrella con espacios
 			            }
 			            System.out.println();                         	     	// Hacemos un salto de linea que imprima justo la siguiente
 			        }

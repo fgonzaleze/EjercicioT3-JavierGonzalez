@@ -31,7 +31,7 @@ public class Ejercicio05 {
 
 				mcm = (num1 * num2) / mcd;  												// Calculamos el máximo común divisor, que será la multiplicación del num1
 																							// y el num2 entre el maximo comun divisor
-				System.out.printf("El mínimo común múltiplo de " + num1 + " y " + num2 + " es " + mcm);  	
+				System.out.print("El mínimo común múltiplo de " + num1 + " y " + num2 + " es " + mcm);  	
 				sc.close();
 			}
 		
