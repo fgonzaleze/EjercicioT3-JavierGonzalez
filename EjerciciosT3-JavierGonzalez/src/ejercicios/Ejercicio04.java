@@ -13,6 +13,7 @@ public class Ejercicio04 {
 				// ambos simultáneamente. Teniendo en cuenta lo que se acaba de explicar,
 				// realiza un programa
 				// que calcule el máximo común divisor de dos números.
+		
 
 				int num1;
 				int num2;

@@ -7,6 +7,11 @@ public class Ejercicio02 {
 	public static void main(String[] args) {
 		// Realiza un programa que nos pida un número n y nos diga cuántos números hay
 		// entre 1 y n que sean primos.
+		
+		// Prueba 1: 0, No ha introducido un número válido
+		// Prueba 2: 1, no hay números primos
+		// Prueba 3: 2, hay un número primo en 2
+		// Prueba 4: 11, hay 5 números primos
 
 		
 				int num;											// Indicamos la variable num que será por la que pedimos el numero
@@ -31,7 +36,7 @@ public class Ejercicio02 {
 				
 				System.out.println("Hay " + contador + " numeros primos en " + num);
 
-		sc.close();													// Cerramos escáner
+				sc.close();												// Cerramos escáner
 			}
 
 }

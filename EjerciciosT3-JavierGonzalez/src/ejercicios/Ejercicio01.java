@@ -50,8 +50,6 @@ public class Ejercicio01 {
 		             } else {                        // Si los segundos no son igualae a 59
 		                 segundos++;                 // Incrementamos los segundos en 1
 		             }
-
-
 				}
 				System.out.println(horas + ":" + minutos + ":" + segundos);			// Imprimimos las horas, los minutos y los segundos como un reloj
 				sc.close();															// Cerramos el escáner
